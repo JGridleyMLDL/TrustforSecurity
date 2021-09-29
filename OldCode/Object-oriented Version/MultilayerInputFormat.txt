@@ -1,0 +1,33 @@
+JSON Format:
+
+Dictionary: Extractors as Keys, Values={Dictionary: Sources as keys, list of triples as values}
+    - For the extractor/sources as keys, can use identifier, like in DocRED(P001/numbers)
+
+
+|- Extractor A
+    |   
+    |---- Source 1
+            |
+            |----Data Pairs (List)
+    |   
+    |---- Source 2
+            |
+            |----Data Pairs (List)
+    |   
+    |---- Source 3
+            |
+            |----Data Pairs (List)
+
+|- ExtractorB
+    |   
+    |---- Source 1
+            |
+            |----Data Pairs (List)
+    |   
+    |---- Source 2 
+            |
+            |----Data Pairs (List)
+    |   
+    |---- Source 3
+            |
+            |----Data Pairs (List)

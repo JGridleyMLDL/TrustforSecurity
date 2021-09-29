@@ -1,0 +1,16 @@
+This is a list of all the required files needed to generate the data to train DocRED.
+
+############################################
+Put into Data folder:
+
+dev.json
+test.json
+train_distant.json
+train_annotated.json
+
+
+Put into prepro_data folder:
+
+rel2id.json
+
+############################################
